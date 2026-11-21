@@ -1,0 +1,3 @@
+C:/Users/ALADE/CLionProjects/C_Semantics_Snippet/cmake-build-debug/CMakeFiles/C_Semantics_Snippet.dir
+C:/Users/ALADE/CLionProjects/C_Semantics_Snippet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALADE/CLionProjects/C_Semantics_Snippet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
